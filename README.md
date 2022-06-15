@@ -1,5 +1,5 @@
 # CONVERT IMAGE TO PDF
-Image to PDF conversion web app
+Image to PDF conversion web app by Aniruddh
 
 https://anirudddh.github.io/CONVERT-IMAGE-TO-PDF/
 
